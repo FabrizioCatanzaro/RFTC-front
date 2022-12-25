@@ -2,7 +2,7 @@ import React from 'react'
 import './cardRemera.css'
 import { Link as LinkRouter } from 'react-router-dom'
 
-function cardRemera(props) {
+function CardRemera(props) {
     let { id, precio, nombre,img} = props
 
 return (
