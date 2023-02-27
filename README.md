@@ -4,7 +4,8 @@
 Tienda e-commerce dedicada a la venta de indumentaria de fútbol con estilo vintage.
 
 
-LINK SITIO WEB (hosteado por Vercel): [RFTC.vercel.app](https://rftc.vercel.app/camisetasM)
+LINK SITIO WEB (hosteado por Vercel): 
+<!---- [RFTC.vercel.app](https://rftc.vercel.app/camisetasM) -->
 
 ---
 
